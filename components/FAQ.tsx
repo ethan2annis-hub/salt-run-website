@@ -46,7 +46,7 @@ export default function FAQ() {
         {/* Headline */}
         <div className="text-center mb-16">
           <h2 className="text-[48px] font-bold text-dark-gray mb-4 leading-tight">
-            Common Questions
+            Common questions
           </h2>
           <p className="text-[20px] text-medium-gray">
             Everything you need to know about Salt Run

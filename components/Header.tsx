@@ -45,7 +45,7 @@ export default function Header() {
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-1">
             {[
-              { label: 'How It Works', id: 'how-it-works' },
+              { label: 'How it works', id: 'how-it-works' },
               { label: 'Pricing', id: 'pricing' },
               { label: 'FAQs', id: 'faqs' },
               { label: 'Testimonials', id: 'testimonials' },
@@ -106,7 +106,7 @@ export default function Header() {
         >
           <nav className="py-4 space-y-1 border-t border-gray-100">
             {[
-              { label: 'How It Works', id: 'how-it-works' },
+              { label: 'How it works', id: 'how-it-works' },
               { label: 'Pricing', id: 'pricing' },
               { label: 'FAQs', id: 'faqs' },
               { label: 'Testimonials', id: 'testimonials' },

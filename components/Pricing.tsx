@@ -40,7 +40,7 @@ export default function Pricing() {
         "Complete peace of mind"
       ],
       featured: false,
-      valueNote: "$450+ value if purchased separately"
+      valueNote: "$1,500 value if purchased separately"
     }
   ]
 
@@ -50,7 +50,7 @@ export default function Pricing() {
         {/* Headline */}
         <div className="text-center mb-16">
           <h2 className="text-[48px] font-bold text-dark-gray mb-4 leading-tight">
-            Choose Your Plan
+            Choose your plan
           </h2>
           <p className="text-[20px] text-medium-gray">
             Simple, transparent pricing. Cancel anytime.

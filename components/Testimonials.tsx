@@ -23,7 +23,7 @@ export default function Testimonials() {
         {/* Headline */}
         <div className="text-center mb-16">
           <h2 className="text-[48px] font-bold text-dark-gray mb-4 leading-tight">
-            What Our Customers Say
+            What our customers say
           </h2>
           <p className="text-[20px] text-medium-gray">
             Serving homeowners across Ogden, Layton, and Farmington

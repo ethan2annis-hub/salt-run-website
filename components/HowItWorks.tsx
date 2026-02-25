@@ -48,7 +48,7 @@ export default function HowItWorks() {
         {/* Headline */}
         <div className="text-center mb-20">
           <h2 className="text-[48px] font-bold text-dark-gray mb-4 leading-tight">
-            One Service. Everything Handled.
+            One service. Everything handled.
           </h2>
           <p className="text-[20px] text-medium-gray max-w-3xl mx-auto">
             We set you up once, then handle maintenance automatically throughout the year.

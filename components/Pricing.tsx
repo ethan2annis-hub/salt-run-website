@@ -39,8 +39,7 @@ export default function Pricing() {
         "Priority scheduling & support",
         "Complete peace of mind"
       ],
-      featured: false,
-      valueNote: "$1,500 value if purchased separately"
+      featured: false
     }
   ]
 
@@ -87,9 +86,6 @@ export default function Pricing() {
                   <span className="text-[56px] font-bold text-dark-gray tracking-tight">${tier.price}</span>
                   <span className="text-[20px] text-medium-gray ml-2">/month</span>
                 </div>
-                {tier.valueNote && (
-                  <p className="text-[14px] text-golden-yellow font-semibold mt-1">{tier.valueNote}</p>
-                )}
               </div>
 
               {/* Features */}

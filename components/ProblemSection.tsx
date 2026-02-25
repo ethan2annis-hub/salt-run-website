@@ -32,7 +32,9 @@ export default function ProblemSection() {
         {/* Headline */}
         <div className="text-center mb-16">
           <h2 className="text-[48px] font-bold text-dark-gray mb-4 leading-tight">
-            Managing your home's maintenance shouldn't feel like a part-time job.
+            Managing your home's maintenance
+            <br />
+            shouldn't feel like a part-time job.
           </h2>
           <p className="text-[20px] text-medium-gray max-w-2xl mx-auto">
             Multiple vendors. Too many trips. Constant mental load.

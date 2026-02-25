@@ -8,7 +8,7 @@ export default function FAQ() {
   const faqs = [
     {
       question: "What areas do you serve?",
-      answer: "We serve Ogden, Layton, and Farmington. If you're in Northern Utah and not sure if we cover your area, give us a call at (801) 477-0670 — we're expanding and might be able to help."
+      answer: "We serve from Farmington to Brigham City. If you're in Northern Utah and not sure if we cover your area, give us a call at (801) 477-0670 — we're expanding and might be able to help."
     },
     {
       question: "How does the smart sensor work?",

@@ -26,7 +26,7 @@ export default function Testimonials() {
             What our customers say
           </h2>
           <p className="text-[20px] text-medium-gray">
-            Serving homeowners across Ogden, Layton, and Farmington
+            Serving homeowners from Farmington to Brigham City
           </p>
         </div>
 

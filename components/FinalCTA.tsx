@@ -25,7 +25,7 @@ export default function FinalCTA() {
 
         {/* Service area note */}
         <p className="text-[15px] text-dark-gray/70">
-          Serving Ogden, Layton, and Farmington
+          Serving Farmington to Brigham City
         </p>
       </div>
     </section>

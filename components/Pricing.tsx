@@ -53,7 +53,7 @@ export default function Pricing() {
             Choose your plan
           </h2>
           <p className="text-[20px] text-medium-gray">
-            Simple, transparent pricing. Cancel anytime.
+            Simple, transparent pricing. No contracts.
           </p>
         </div>
 

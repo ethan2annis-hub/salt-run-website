@@ -27,7 +27,7 @@ export default function Footer() {
             <div>
               <div className="text-[14px] text-white/60 mb-2">Service area</div>
               <p className="text-[16px] text-white/90">
-                Serving Ogden, Layton, and Farmington
+                Serving Farmington to Brigham City
               </p>
             </div>
           </div>

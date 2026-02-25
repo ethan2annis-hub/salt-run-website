@@ -25,7 +25,7 @@ export default function ValueProps() {
         </svg>
       ),
       title: "Transparent Pricing, No Surprises",
-      description: "Flat monthly rate. No hidden charges. No pushy upsells. Cancel anytime."
+      description: "Flat monthly rate. No hidden charges. No pushy upsells. No contracts."
     },
     {
       icon: (
